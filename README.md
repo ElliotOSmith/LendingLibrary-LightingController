@@ -6,8 +6,11 @@ This simple controller based off of an ATTINY85 was designed to control lights w
 
 # Images
 
-*Top of the board|n*
+*Top of the board*
+<picture>
 <img src="./images/topUnsoldered.jpg" width="500">
+</picture>
 
-*Bottom of the board|n*
+
+*Bottom of the board*
 <img src="./images/bottomUnsoldered.jpg" width="500">
