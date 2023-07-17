@@ -15,3 +15,13 @@ This simple controller based off of an ATTINY85 was designed to control lights w
 *Bottom of the board*
 <br>
 <img src="./images/bottomUnsoldered.jpg" width="500">
+
+
+
+*Finished Installment*
+<br>
+<img src="./images/night.jpg" width="500">
+<br>
+<img src="./images/hidden.jpg" width="500">
+<br>
+<img src="./images/installed.jpg" width="500">
